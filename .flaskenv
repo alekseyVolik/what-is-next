@@ -1,0 +1,1 @@
+FLASK_APP=what_is_next
